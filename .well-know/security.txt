@@ -1,0 +1,22 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Contact: mailto:info@arbs09.de
+Expires: 2030-01-01T09:00:00.000Z
+Encryption: https://serverobot.de/.well-known/pgp.txt
+Preferred-Languages: en, de
+Canonical: https://serverobot.de/.well-known/security.txt
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCAAdFiEEYfBdl0jeafBJHct3oRHPslEgIfUFAmZAmncACgkQoRHPslEg
+IfWdGgv+IYJcutghjpRLW6/x1+twq9Va2YSAiheFwN2qx1wE8Gj3F1s/1cmE8Kb8
+PuF0jnBs/3QFOvZJ8/PoUHh9/T+W+cxT6FGgqHZXQzGY4Eo1YPlG5HQFdOtWPodO
+aZCuafC3qf51/Y31g6s6gmVnNp8bnzJM/NUoiFyHSiii0JV+ocde2LYyRGXp2UEK
+TbO5CEFNNAKdxywxGmCOSqKmcgFneHOl5exl8FMQIPPqhJTGA+sMw/ar78a/hLiI
+spQBjBYGZxg2hpebRTP3MzCpDc2CUhwdJjKlgMFs6enI7PjiFxTx6zmaPEJk09Ht
+DTp8wtlH7wkzm6trxtIIoRtx0XJVe+Au9hM7LEnVpcpS1sYC89tVlYprpT5X1usu
+m1bVExehFMoopH2cxzQLG+mCU6yNFXPN8MRn6x0K8/u4m8ItC/+xfUSDUk9zoSzX
+xVty2h7mJ4kYnhpg0yqKEv/GC0Y3EzndlfRYFjBQGNaGFUf7toKdbPmdiYzMn+rO
+CtmutyQZ
+=BvO8
+-----END PGP SIGNATURE-----
