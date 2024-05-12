@@ -1,5 +1,5 @@
 name: CI
-run-name: Zola blog deployment
+run-name: deployment
 on:
   push:
 
