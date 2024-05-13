@@ -1,3 +1,0 @@
-DirectoryIndex index.html
-ErrorDocument 404 https://serverobot.de/404
-ErrorDocument 403 "Sorry, you do not have permission to access this file"
